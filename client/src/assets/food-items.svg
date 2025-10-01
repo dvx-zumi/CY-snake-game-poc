@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50">
+  <!-- Ceviche Dish (food item 1) -->
+  <g id="ceviche">
+    <circle cx="25" cy="25" r="20" fill="#e9d8a6"/>
+    <path d="M15 20 Q25 30 35 20" stroke="#c6811f" stroke-width="2" fill="none"/>
+    <circle cx="20" cy="22" r="3" fill="#c6811f"/>
+    <circle cx="25" cy="18" r="3" fill="#c6811f"/>
+    <circle cx="30" cy="22" r="3" fill="#c6811f"/>
+    <path d="M18 28 Q25 32 32 28" stroke="#5ca35c" stroke-width="1" fill="none"/>
+  </g>
+  
+  <!-- Guacamole (food item 2) -->
+  <g id="guacamole" transform="translate(50 0)">
+    <rect x="10" y="15" width="30" height="20" rx="5" fill="#9c7d39"/>
+    <ellipse cx="25" cy="20" rx="12" ry="8" fill="#7fa85b"/>
+    <path d="M20 25 Q25 30 30 25" stroke="#5ca35c" stroke-width="1" fill="none"/>
+    <circle cx="23" cy="22" r="2" fill="#c6811f"/>
+    <circle cx="27" cy="23" r="2" fill="#c6811f"/>
+  </g>
+  
+  <!-- Empanada (food item 3) -->
+  <g id="empanada" transform="translate(100 0)">
+    <path d="M15 30 Q25 10 35 30 Z" fill="#c6811f"/>
+    <path d="M20 25 Q25 20 30 25" stroke="#8c5b30" stroke-width="1" fill="none"/>
+  </g>
+  
+  <!-- Cocktail (food item 4) -->
+  <g id="cocktail" transform="translate(150 0)">
+    <path d="M20 10 L15 30 Q25 35 35 30 L30 10 Z" fill="#f2cc8f"/>
+    <path d="M23 15 L22 25 M27 15 L28 25" stroke="#c6811f" stroke-width="1"/>
+    <circle cx="25" cy="15" r="2" fill="#c6811f"/>
+    <path d="M20 10 H30" stroke="#c6a866" stroke-width="1"/>
+  </g>
+</svg>
